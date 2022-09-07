@@ -1,0 +1,75 @@
+body {
+  background-color: #EDE6DB;
+}
+.topcontainer{
+  margin-left: auto;
+  margin-right: auto;
+}
+.dp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.Education{
+  text-align: center;
+}
+
+.Work{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.worktable{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Skills{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skillstable{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.links{
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #827397;
+  border-width: 5px;
+  width: 15%;
+}
+
+h1 {
+  color: #4D4C7D;
+}
+
+h3 {
+  color: #1A3C40;
+
+}
+
+.dp {
+  height: 200px;
+  border-radius: 100px;
+}
+
+.comdots {
+  height: 20px;
+  border-radius: 10px;
+}
